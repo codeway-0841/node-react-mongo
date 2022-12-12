@@ -13,10 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.5",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cookie-parser": "^1.4.4",
     "dotenv": "^7.0.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-mongo-db": "^2.0.4",
     "express-session": "^1.16.1",
     "express-validator": "^5.3.1",
